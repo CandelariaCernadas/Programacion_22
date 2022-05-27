@@ -1,0 +1,11 @@
+C:\Users\cande\OneDrive\Documentos\Repos_2022\Ej_Check\Ej_Check\bin\Debug\Ej_Check.exe.config
+C:\Users\cande\OneDrive\Documentos\Repos_2022\Ej_Check\Ej_Check\bin\Debug\Ej_Check.exe
+C:\Users\cande\OneDrive\Documentos\Repos_2022\Ej_Check\Ej_Check\bin\Debug\Ej_Check.pdb
+C:\Users\cande\OneDrive\Documentos\Repos_2022\Ej_Check\Ej_Check\obj\Debug\Ej_Check.csproj.AssemblyReference.cache
+C:\Users\cande\OneDrive\Documentos\Repos_2022\Ej_Check\Ej_Check\obj\Debug\Ej_Check.csproj.SuggestedBindingRedirects.cache
+C:\Users\cande\OneDrive\Documentos\Repos_2022\Ej_Check\Ej_Check\obj\Debug\Ej_Check.Proyecto_Chk.resources
+C:\Users\cande\OneDrive\Documentos\Repos_2022\Ej_Check\Ej_Check\obj\Debug\Ej_Check.Properties.Resources.resources
+C:\Users\cande\OneDrive\Documentos\Repos_2022\Ej_Check\Ej_Check\obj\Debug\Ej_Check.csproj.GenerateResource.cache
+C:\Users\cande\OneDrive\Documentos\Repos_2022\Ej_Check\Ej_Check\obj\Debug\Ej_Check.csproj.CoreCompileInputs.cache
+C:\Users\cande\OneDrive\Documentos\Repos_2022\Ej_Check\Ej_Check\obj\Debug\Ej_Check.exe
+C:\Users\cande\OneDrive\Documentos\Repos_2022\Ej_Check\Ej_Check\obj\Debug\Ej_Check.pdb
