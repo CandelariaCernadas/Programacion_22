@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej_Check", "Ej_Check\Ej_Check.csproj", "{15C74BE0-7926-40F1-BA88-FFD781A6355E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15C74BE0-7926-40F1-BA88-FFD781A6355E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C74BE0-7926-40F1-BA88-FFD781A6355E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C74BE0-7926-40F1-BA88-FFD781A6355E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C74BE0-7926-40F1-BA88-FFD781A6355E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0261414F-C9D4-437F-95A6-BBC671FC0716}
+	EndGlobalSection
+EndGlobal
