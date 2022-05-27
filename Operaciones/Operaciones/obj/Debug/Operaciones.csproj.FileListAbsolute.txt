@@ -1,0 +1,11 @@
+C:\Users\cande\OneDrive\Documentos\Repos_2022\Operaciones\Operaciones\bin\Debug\Operaciones.exe.config
+C:\Users\cande\OneDrive\Documentos\Repos_2022\Operaciones\Operaciones\bin\Debug\Operaciones.exe
+C:\Users\cande\OneDrive\Documentos\Repos_2022\Operaciones\Operaciones\bin\Debug\Operaciones.pdb
+C:\Users\cande\OneDrive\Documentos\Repos_2022\Operaciones\Operaciones\obj\Debug\Operaciones.csproj.AssemblyReference.cache
+C:\Users\cande\OneDrive\Documentos\Repos_2022\Operaciones\Operaciones\obj\Debug\Operaciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\cande\OneDrive\Documentos\Repos_2022\Operaciones\Operaciones\obj\Debug\Operaciones.Properties.Resources.resources
+C:\Users\cande\OneDrive\Documentos\Repos_2022\Operaciones\Operaciones\obj\Debug\Operaciones.Suma.resources
+C:\Users\cande\OneDrive\Documentos\Repos_2022\Operaciones\Operaciones\obj\Debug\Operaciones.csproj.GenerateResource.cache
+C:\Users\cande\OneDrive\Documentos\Repos_2022\Operaciones\Operaciones\obj\Debug\Operaciones.csproj.CoreCompileInputs.cache
+C:\Users\cande\OneDrive\Documentos\Repos_2022\Operaciones\Operaciones\obj\Debug\Operaciones.exe
+C:\Users\cande\OneDrive\Documentos\Repos_2022\Operaciones\Operaciones\obj\Debug\Operaciones.pdb

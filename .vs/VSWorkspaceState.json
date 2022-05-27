@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Operaciones",
+    "\\Operaciones\\Operaciones"
   ],
+  "SelectedNode": "\\Operaciones\\Operaciones\\Suma.cs",
   "PreviewInSolutionExplorer": false
 }
