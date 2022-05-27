@@ -19,15 +19,39 @@ namespace Ej_Check
 
         private void BtAceptar_Click(object sender, EventArgs e)
         {
-            if (chkHombre.Checked && chkHombre.Checked == true )
+            if (chkHombre.Checked && chkMujer.Checked == true )
             {
                 lbRes.Text = "Error - Debe seleccionar una de las opciones";
             }
+            if (chkHombre.Checked == true)
+            {
+                lbRes.Text = "Ha seleccionado Hombre, ingrese sus datos personales";
+            }
+            if (chkMujer.Checked == true)
+            {
+                lbRes.Text = "Ha seleccionado Mujer, ingrese sus datos personales";
+            }
+            if (chkHombre.Checked == true && chkMujer.Checked == false)
+            {
+                lbRes.Text = "Ha seleccionado Hombre";
+            }
+            if (chkMujer.Checked == false && chkHombre.Checked == true)
+            {
+                lbRes.Text = "Ha seleccionado Mujer";
+            }
+          
+           
         }
 
         private void BtLimpiar_Click(object sender, EventArgs e)
         {
             lbRes.Text = null;
+        }
+        private void BtSalir_Click(object sender, EventArgs e)
+        {
+            Close();
         }
+
+   
     }
 }

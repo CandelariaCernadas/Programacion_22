@@ -68,12 +68,13 @@
             // 
             // BtSalir
             // 
-            this.BtSalir.Location = new System.Drawing.Point(133, 194);
+            this.BtSalir.Location = new System.Drawing.Point(52, 223);
             this.BtSalir.Name = "BtSalir";
-            this.BtSalir.Size = new System.Drawing.Size(110, 23);
+            this.BtSalir.Size = new System.Drawing.Size(205, 23);
             this.BtSalir.TabIndex = 3;
             this.BtSalir.Text = "Cerrar programa";
             this.BtSalir.UseVisualStyleBackColor = true;
+            this.BtSalir.Click += new System.EventHandler(this.BtSalir_Click);
             // 
             // lbRes
             // 
@@ -85,9 +86,9 @@
             // 
             // BtLimpiar
             // 
-            this.BtLimpiar.Location = new System.Drawing.Point(52, 238);
+            this.BtLimpiar.Location = new System.Drawing.Point(133, 194);
             this.BtLimpiar.Name = "BtLimpiar";
-            this.BtLimpiar.Size = new System.Drawing.Size(191, 23);
+            this.BtLimpiar.Size = new System.Drawing.Size(124, 23);
             this.BtLimpiar.TabIndex = 5;
             this.BtLimpiar.Text = "Limpiar resultado";
             this.BtLimpiar.UseVisualStyleBackColor = true;
